@@ -4,4 +4,4 @@ I'm Josh. This is where I publish my open source projects. Also, see [@nothingda
 
 I'm on X at [https://x.com/4A_6F_73_68](https://x.com/4A_6F_73_68).
 
-I also have a few early WIPs on [orthfx](https://github.com/orthfx).
+I also have a few early-stage WIPs on [orthfx](https://github.com/orthfx).
