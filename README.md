@@ -1,6 +1,6 @@
 ## Josh / whaleen
 
-I build small, fast tools with strong UX and clear product edges.
+I build small (or big), fast (hopefully) tools with strong UX and clear product edges (cringe).
 
 ### What I'm Working On
 
