@@ -4,7 +4,7 @@ I build small (or big), fast (hopefully) tools with strong UX and clear product 
 
 ### What I'm Working On
 
-- Writing-focused desktop apps with Tauri + TypeScript
+- MacOS and iOS apps with Tauri + TypeScript
 - Solana apps/tools via [@nothingdao](https://github.com/nothingdao)
 - Experimental early-stage ideas in [orthfx](https://github.com/orthfx)
 
